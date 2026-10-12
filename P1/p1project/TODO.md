@@ -1,0 +1,3 @@
+- [x] Install TensorFlow and Matplotlib dependencies
+- [x] Create fashion_mnist_fcnn.py script with complete implementation
+- [x] Run the script to generate output and plots

@@ -1,0 +1,109 @@
+candidate,sentiment,text
+CandidateA,positive,I love CandidateA's policies on education!
+CandidateA,negative,CandidateA is ruining the economy.
+CandidateA,neutral,CandidateA announced a new plan today.
+CandidateB,positive,CandidateB is the best choice for our future.
+CandidateB,negative,CandidateB's past scandals are concerning.
+CandidateB,neutral,CandidateB is running for office.
+CandidateC,positive,Support CandidateC for a better tomorrow!
+CandidateC,negative,CandidateC lacks experience.
+CandidateC,neutral,CandidateC has been in politics for years.
+CandidateA,positive,Excited about CandidateA's vision.
+CandidateA,negative,CandidateA's speeches are boring.
+CandidateA,neutral,CandidateA visited our town.
+CandidateB,positive,CandidateB cares about the people.
+CandidateB,negative,CandidateB is corrupt.
+CandidateB,neutral,CandidateB's campaign is ongoing.
+CandidateC,positive,CandidateC inspires me.
+CandidateC,negative,CandidateC is too old.
+CandidateC,neutral,CandidateC has many supporters.
+CandidateA,positive,CandidateA's team is great.
+CandidateA,negative,CandidateA ignores minorities.
+CandidateA,neutral,CandidateA's website is updated.
+CandidateB,positive,Voting for CandidateB.
+CandidateB,negative,CandidateB's policies are flawed.
+CandidateB,neutral,CandidateB debated last night.
+CandidateC,positive,CandidateC is honest.
+CandidateC,negative,CandidateC is out of touch.
+CandidateC,neutral,CandidateC's biography is interesting.
+CandidateA,positive,CandidateA will win.
+CandidateA,negative,CandidateA is a liar.
+CandidateA,neutral,CandidateA's age is 50.
+CandidateB,positive,CandidateB is innovative.
+CandidateB,negative,CandidateB cheated.
+CandidateB,neutral,CandidateB has a family.
+CandidateC,positive,CandidateC is reliable.
+CandidateC,negative,CandidateC is arrogant.
+CandidateC,neutral,CandidateC's office is in DC.
+CandidateA,positive,Great job CandidateA!
+CandidateA,negative,Terrible CandidateA.
+CandidateA,neutral,CandidateA's name is John.
+CandidateB,positive,Yes to CandidateB.
+CandidateB,negative,No to CandidateB.
+CandidateB,neutral,CandidateB's party is blue.
+CandidateC,positive,CandidateC rocks.
+CandidateC,negative,CandidateC sucks.
+CandidateC,neutral,CandidateC's height is 6ft.
+CandidateA,positive,I support CandidateA.
+CandidateA,negative,I oppose CandidateA.
+CandidateA,neutral,CandidateA's hobby is reading.
+CandidateB,positive,CandidateB is my hero.
+CandidateB,negative,CandidateB is my villain.
+CandidateB,neutral,CandidateB's favorite food is pizza.
+CandidateC,positive,CandidateC is amazing.
+CandidateC,negative,CandidateC is awful.
+CandidateC,neutral,CandidateC's pet is a dog.
+CandidateA,positive,CandidateA for president.
+CandidateA,negative,CandidateA not for me.
+CandidateA,neutral,CandidateA's car is red.
+CandidateB,positive,CandidateB all the way.
+CandidateB,negative,CandidateB never.
+CandidateB,neutral,CandidateB's book is out.
+CandidateC,positive,CandidateC yes.
+CandidateC,negative,CandidateC no.
+CandidateC,neutral,CandidateC's movie is good.
+CandidateA,positive,Love CandidateA.
+CandidateA,negative,Hate CandidateA.
+CandidateA,neutral,CandidateA's song is nice.
+CandidateB,positive,Adore CandidateB.
+CandidateB,negative,Despise CandidateB.
+CandidateB,neutral,CandidateB's game is fun.
+CandidateC,positive,Like CandidateC.
+CandidateC,negative,Dislike CandidateC.
+CandidateC,neutral,CandidateC's art is beautiful.
+CandidateA,positive,CandidateA is positive.
+CandidateA,negative,CandidateA is negative.
+CandidateA,neutral,CandidateA is neutral.
+CandidateB,positive,CandidateB is positive.
+CandidateB,negative,CandidateB is negative.
+CandidateB,neutral,CandidateB is neutral.
+CandidateC,positive,CandidateC is positive.
+CandidateC,negative,CandidateC is negative.
+CandidateC,neutral,CandidateC is neutral.
+CandidateA,positive,Positive about CandidateA.
+CandidateA,negative,Negative about CandidateA.
+CandidateA,neutral,Neutral about CandidateA.
+CandidateB,positive,Positive about CandidateB.
+CandidateB,negative,Negative about CandidateB.
+CandidateB,neutral,Neutral about CandidateB.
+CandidateC,positive,Positive about CandidateC.
+CandidateC,negative,Negative about CandidateC.
+CandidateC,neutral,Neutral about CandidateC.
+CandidateA,positive,Feeling good about CandidateA.
+CandidateA,negative,Feeling bad about CandidateA.
+CandidateA,neutral,Feeling okay about CandidateA.
+CandidateB,positive,Feeling good about CandidateB.
+CandidateB,negative,Feeling bad about CandidateB.
+CandidateB,neutral,Feeling okay about CandidateB.
+CandidateC,positive,Feeling good about CandidateC.
+CandidateC,negative,Feeling bad about CandidateC.
+CandidateC,neutral,Feeling okay about CandidateC.
+CandidateA,positive,Optimistic for CandidateA.
+CandidateA,negative,Pessimistic for CandidateA.
+CandidateA,neutral,Indifferent to CandidateA.
+CandidateB,positive,Optimistic for CandidateB.
+CandidateB,negative,Pessimistic for CandidateB.
+CandidateB,neutral,Indifferent to CandidateB.
+CandidateC,positive,Optimistic for CandidateC.
+CandidateC,negative,Pessimistic for CandidateC.
+CandidateC,neutral,Indifferent to CandidateC.
